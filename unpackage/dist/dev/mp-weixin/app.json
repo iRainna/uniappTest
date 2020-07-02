@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/details/details",
+    "pages/pay/pay",
+    "pages/search/search",
+    "pages/first/first",
+    "pages/index/index",
+    "pages/swiperDot/swiperDot"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

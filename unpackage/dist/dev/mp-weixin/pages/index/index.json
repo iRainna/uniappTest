@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "mpvue-picker": "/components/mpvue-picker/mpvuePicker",
+    "mpvue-city-picker": "/components/mpvue-citypicker/mpvueCityPicker",
+    "swiper-dot": "/pages/swiperDot/swiperDot"
+  }
+}
